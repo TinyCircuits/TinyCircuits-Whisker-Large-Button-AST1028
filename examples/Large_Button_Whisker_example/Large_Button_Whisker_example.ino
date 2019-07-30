@@ -14,7 +14,7 @@ const int powerPin = 4;         //IO Pin for controlling power to the Mux TinySh
 
 //const int buttonPin =
 
-float buttonPin = A1;
+float buttonPin = A0;
 
 void setup() {
   Wire.begin();                 //Begin I2C Communication
@@ -25,7 +25,7 @@ void setup() {
 
   pinMode(buttonPin, INPUT);
 
-  selectPort(1);
+  selectPort(0);
 }
 
 void loop() {
