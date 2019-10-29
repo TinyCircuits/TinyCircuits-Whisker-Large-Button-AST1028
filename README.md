@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Large Button
+# TinyCircuits Wireling Large Button
 # AST1028 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1028 Rev 1 PCB. This is a whisker board which features a button! What else is there to be said?
+The design files are located under design_files/ for the TinyCircuits AST1028 Rev 1 PCB. This is a Wireling board which features a large button to add an easy input to a project. 
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
