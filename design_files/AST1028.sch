@@ -10540,7 +10540,7 @@
 </classes>
 <parts>
 <part name="FRAME1" library="tinycircuits" deviceset="FRAME_TINYCIRCUITS_B_L" device=""/>
-<part name="J1" library="tinycircuits" deviceset="AS-ITM-00340" device="" value="SM05B"/>
+<part name="J1" library="tinycircuits" deviceset="AS-ITM-00340" device="EDGE" value="SM05B"/>
 <part name="GND2" library="tinycircuits" deviceset="GND" device=""/>
 <part name="R1" library="tinycircuits" deviceset="AS-ITM-00032" device="" value="10.0K"/>
 <part name="P+3" library="tinycircuits" deviceset="VCC" device=""/>

@@ -13352,10 +13352,10 @@
 <rectangle x1="-0.925" y1="-0.275" x2="-0.275" y2="0.275" layer="31"/>
 <rectangle x1="0.275" y1="-0.275" x2="0.925" y2="0.275" layer="31"/>
 </package>
-<package name="JST_SH_5X1">
+<package name="JST_SH_5X1_EDGE">
 <smd name="2" x="-1" y="2.475" dx="1.4" dy="0.6" layer="1" rot="R90"/>
-<smd name="PAD1" x="-3.3" y="-1.325" dx="1.6" dy="1.2" layer="1" roundness="1" rot="R90"/>
-<smd name="PAD2" x="3.3" y="-1.325" dx="1.6" dy="1.2" layer="1" rot="R90"/>
+<smd name="PAD1" x="-3.3" y="-1.225" dx="1.4" dy="0.8" layer="1" roundness="1" rot="R90"/>
+<smd name="PAD2" x="3.3" y="-1.225" dx="1.4" dy="0.8" layer="1" rot="R90"/>
 <smd name="3" x="0" y="2.475" dx="1.4" dy="0.6" layer="1" rot="R90"/>
 <wire x1="-3.5" y1="2.125" x2="3.5" y2="2.125" width="0.127" layer="51"/>
 <wire x1="3.5" y1="2.125" x2="3.5" y2="-2.125" width="0.127" layer="51"/>
@@ -13578,7 +13578,7 @@ design rules under a new name.</description>
 <element name="U$1" library="tinycircuits" package="DOCFIELD-TINYCIRCUITS-PCB" value="" x="34" y="0">
 <attribute name="NO_BOM" value="TRUE" x="34" y="0" size="1.778" layer="27" display="off"/>
 </element>
-<element name="J1" library="tinycircuits" package="JST_SH_5X1" value="SM05B" x="20" y="12.125">
+<element name="J1" library="tinycircuits" package="JST_SH_5X1_EDGE" value="SM05B" x="20" y="12.125">
 <attribute name="PARTNO" value="AS-ITM-00340" x="20" y="12.125" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" value="SM05B" x="20" y="12.125" size="1.778" layer="27" display="off"/>
 <attribute name="PNPROTATION" value="180" x="20" y="12.125" size="1.778" layer="27" display="off"/>
