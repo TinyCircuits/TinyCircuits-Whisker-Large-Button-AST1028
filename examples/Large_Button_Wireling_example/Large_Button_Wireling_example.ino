@@ -48,4 +48,5 @@ void loop() {
       // button not currently being pressed
     }
   }
+  Wireling.disablePower();
 }
